@@ -28,7 +28,7 @@ _Below are the steps that you have to follow to run the scraper._
     ```    
 4. Start the scraper `index.js`
    ```sh
-    node index;
+    node index
     ```
 4. The data are located in the _data_ folder 
 
