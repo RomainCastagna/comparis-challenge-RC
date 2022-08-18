@@ -22,7 +22,7 @@ _Below are the steps that you have to follow to run the scraper._
    ```
 3. choose the function you want to run in `index.js` at ligne 9 and 10
    ```js
-    getOfferById(offer_id); //to scrap a specific offer ex : 28389114
+    getOfferById(offer_id); //to scrap a specific offer e.g. : 28389114
     //or
     getOfferList(); //to get the list of all offers from https://en.comparis.ch/immobilien/marktplatz/wallisellen/mieten
     ```    
