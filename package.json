@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "puppeteer": "^16.1.1",
+    "puppeteer-extra": "^3.3.4",
+    "puppeteer-extra-plugin-adblocker": "^2.13.5",
+    "puppeteer-extra-plugin-stealth": "^2.11.1"
+  },
+  "name": "comparis-challenge-RC",
+  "version": "1.0.0",
+  "description": "This is a way to scrap comparis.ch data",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index"
+  },
+  "author": "Romain Castagna",
+  "license": "ISC"
+}
